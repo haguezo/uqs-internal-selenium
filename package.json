@@ -1,0 +1,14 @@
+{
+  "name": "UqsInternal.Test.E2E",
+  "version": "0.0.0",
+  "description": "UqsInternal.Test.E2E",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jasmine-data-provider": "^2.2.0",
+    "jasmine-spec-reporter": "^2.7.0",
+    "path": "^0.12.7",
+    "protractor-jasmine2-screenshot-reporter": "^0.3.2",
+    "selenium-server-standalone-jar": "^2.53.1"
+  }
+}
